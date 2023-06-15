@@ -101,3 +101,13 @@ GIT-SCM
 
 file1.txt
 index.txt
+
+s
+df
+asd
+fas
+df
+as
+df
+asd
+fa
