@@ -1,0 +1,101 @@
+GIT Versioning Tool
+Versioning Control System
+---------------------------
+Eg: 
+	New Resume	- 	Resume Giri Mar 2020
+	Update resume	-	
+		create of copy
+		time stamping
+		update
+				Resume Giri June 2023
+------------------------------------------------------
+
+Source Control
+	
+	File
+		created	
+		saving
+				mech - record the changes
+		local directory
+				commit -  repo   - version
+---------------------------------
+
+VCS
+---
+1. Track the changes
+2. Versioning
+3. 
+
+
+
+Client requirement
+login with username password
+			-	version
+third party authentication
+add the feature
+		
+server
+n number of developer
+track 
+collaborate
+
+BRANCHING / MERGING
+COLLAOBRATION
+	INTERNET
+
+
+1. CENTRALIZED VCS 
+2. DISTRIBUTED VCS
+
+Centralized VCS
+- C/S model
+- Server 
+- need to connect
+- d1		-	f1		
+  d2		-	f1
+- file locking ;  
+- server down / network issue - developer 
+Apache Subversion
+Concurrent VCS
+
+Distributed VCS
+
+
+D-a		F-a		TPA 	RSA 		
+D-b		F-a		TPA	Application
+
+commit 
+vi editor
+notepad
+vs code
+
+
+----------------------------------------------
+GIT
+---
+
+
+GIT-SCM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
