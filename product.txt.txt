@@ -7,4 +7,3 @@ Changes not staged for commit:
 Changes not staged for commit:
 Changes not staged for commit:
 Changes not staged for commit:
-cancel commit
