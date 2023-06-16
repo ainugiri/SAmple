@@ -8,3 +8,5 @@ Changes not staged for commit:
 Changes not staged for commit:
 Changes not staged for commit:
 featture A
+
+master add main logic 
