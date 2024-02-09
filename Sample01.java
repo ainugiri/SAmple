@@ -5,8 +5,5 @@ class Sample01{
 		System.out.println("Jenkins Triggered from GitHub Repository");
 		System.out.println("Jenkins Triggered from GitHub Repository");
 		System.out.println("Jenkins https://.loophole.site from GitHub Repository");
-		System.out.println("Jenkins Triggered from GitHub Repository");
-		System.out.println("Jenkins Triggered from GitHub Repository");
-		System.out.println("Jenkins Triggered from GitHub Repository");
 	}
 }
